@@ -1,3 +1,16 @@
+# Reflection 1:
+# I would use .get() for optional fields, such as an email address,
+# so missing information returns a default instead of stopping the program.
+# I would use bracket notation for required fields, such as a customer's
+# name, so a missing key is noticed and can be fixed.
+
+# Reflection 2:
+# This pattern reminds me of an Excel PivotTable or SUMIF because
+# it adds sales amounts for each region.
+# Python can automate repeated summaries across many files without
+# manually updating spreadsheet ranges, which is useful for large datasets.
+
+
 # Excercise 1: One customer
 
 customer = {
