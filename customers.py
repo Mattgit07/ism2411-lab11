@@ -104,7 +104,7 @@ for product_name, details in catalog.items():
         print(f"LOW STOCK: {product_name} has {details['stock']} units remaining")
 
 # Exercise 8: Sales by region
-        print("\nExercise 8")
+print("\nExercise 8")
 
 transactions = [
     {"region": "South", "amount": 300},
